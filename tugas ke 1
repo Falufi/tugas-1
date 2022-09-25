@@ -1,0 +1,59 @@
+Nama : Duwixe Falufi
+Kelas : 5 MIP
+NIM : 062040382817
+No. Absen : 05
+
+soal:
+
+1. Apa itu Git dan kegunaannya.
+jawab :
+    GIT adalah sebuah version control system yang telah digunakan oleh para developer untuk dapat mengembangkan software secara bersamaan. 
+    Fungsi utama dari GIT adalah mengatur versi source code program dengan memberikan tanda baris serta code mana yang perlu ditambah ataupun diganti.
+    
+    Git memiliki beberapa fungsi yang memungkinkan penggunanya untuk melakukan berbagai hal, sesuai dengan fiturnya:
+    A. Kolaborasi – Anda bisa mengerjakan proyek yang sama dengan orang berbeda (kejra tim).
+    B. Open-source – Git adalah tool open-source yang bisa digunakan juga untuk membuat software open-source.
+    C. Backup – Anda bisa kembali ke versi sebelumnya dengan mudah bila terjadi error atau kendala saat membuat versi terbaru.
+    
+2. Apa itu Github dan kegunaanya.
+Jawab :
+    GitHub merupakan manajemen project, sistem versioning code, sekaligus platform jaringan sosial bagi para developer seluruh dunia. GitHub digunakan 
+   untuk menyimpan source code untuk suatu proyek dan melacak riwayat lengkap semua perubahan kode itu. Ini memungkinkan pengguna untuk berkolaborasi 
+   dalam proyek secara lebih efektif dengan menyediakan alat untuk mengelola perubahan yang mungkin bertentangan dari beberapa pengembang.
+
+3. Sebutkan istilah-istilah yang ada di Git dan jelaskan masing-masing istilah tersebut
+jawab :
+    1. Git
+      Git sendiri adalah jantung atau inti dari GitHub. Git merupakan sistem pengontrol versi yang dikembangkan oleh seseorang yang juga 
+      menciptakan dan mengembangkan sistem operasi Linux yaitu Linus Torvalds.
+      
+    2. Hub
+      Jika Git adalah jantungnya GitHub maka Hub adalah jiwanya. Hub sendiri merupakan jiwa GitHub karena fungsinya yang mengubah 
+      command line (baris perintah) menjadi jaringan sosial bagi para programmer.
+      
+    3. Repositori
+      Repositori sendiri adalah deriktori penyimpanan file-file proyek. File-file tersebut bisa berupa file gambar, file kode, atau file audio, 
+      tapi biasanya dan kebanyakan berisi file kode. Letak Repositori sendiri ada di penyimpanan GitHub atau penyimpanan lokal komputer.
+      
+    4. Forking Repositori
+      Forking Repositori merupakan fitur yang singkatnya berguna untuk menyalin Repositori yang sudah ada ke Repositori baru, lalu menambahkan 
+      beberapa perubahan dan menjadikannya Repositori kita.
+      
+    5. Branch
+      Singkatnya Branch adalah salinan Repositori yang digunakan apabila memulai suatu pengembangan proyek secara terpisah. Branch ini 
+      memungkinkan kita melakukan suatu pengembangan secara terpisah tanpa menggangu Repositori atau Branch lain.
+      
+    6. Pull Request
+      Singkatnya Pull Request merupakan perintah untuk mengirimkan informasi dari Branch ke Master Repositori bahwa Anda telah 
+      melakukan perubahan atau penambahan di Branch.
+    
+4.  Sebutkan layanan selain github?
+jawab :  
+      a. Bitbucket
+      b. SourceForge
+      c. GitLab
+      d. Kiln
+      e. Codeplane
+      f. CodePlex
+      g. Pohon Kacang 
+      
